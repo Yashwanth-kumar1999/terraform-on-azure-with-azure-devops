@@ -26,7 +26,7 @@ provider "azurerm" {
  features {}          
 }
 
-# Simple comment added1
+# Simple comment added2
 # QA, Stage and Prod env added
 
 
